@@ -1,0 +1,43 @@
+<svg width="100%" height="100%" viewBox="0 0 500 442" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #6A9910;">
+    <defs></defs>
+    <g id="Thumbnails" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Lifeline-for-Trees">
+            <g id="Ground" transform="translate(95.000000, 238.000000)" stroke-width="3">
+                <path d="M0.5,66.5 L309.5,66.5" stroke="#4A6B0A" stroke-linecap="round"></path>
+                <polygon id="Tree---One" stroke="#4A6B0B" fill="#577C0F" opacity="0.978323228" points="40.18 4 40.17939 4 17 57.68 37.73939 57.68 37.73939 65 42.61939 65 42.61939 57.68 63.35939 57.68"></polygon>
+                <polygon id="Tree---Two" stroke="#4A6B0B" fill="#577C0F" opacity="0.978323228" points="95.62 16 95.61951 16 77 59.12 93.65951 59.12 93.65951 65 97.57951 65 97.57951 59.12 114.23951 59.12"></polygon>
+                <polygon id="Tree---Three" stroke="#4A6B0B" fill="#577C0F" opacity="0.978323228" points="151.500322 0.52546744 151.499678 0.52546744 127 57.2630561 148.920696 57.2630561 148.920696 65 154.078659 65 154.078659 57.2630561 176 57.2630561"></polygon>
+            </g>
+            <g id="Sun" transform="translate(142.000000, 86.000000)">
+                <circle id="Sun-Core" stroke="#4A6B0B" stroke-width="4" cx="47.5" cy="47.5" r="22.5"></circle>
+                <g id="rays" fill="#4A6B0B">
+                    <g id="Group" transform="translate(45.000000, 0.000000)">
+                        <rect id="Rectangle" x="1" y="0" width="5" height="17" rx="2"></rect>
+                        <rect id="Rectangle" transform="translate(2.500000, 86.500000) rotate(-180.000000) translate(-2.500000, -86.500000) " x="2.27373675e-13" y="78" width="5" height="17" rx="2"></rect>
+                    </g>
+                    <g id="Group" transform="translate(48.000000, 47.500000) rotate(-330.000000) translate(-48.000000, -47.500000) translate(45.000000, 0.000000)">
+                        <rect id="Rectangle" x="1" y="0" width="5" height="17" rx="2"></rect>
+                        <rect id="Rectangle" transform="translate(2.500000, 86.500000) rotate(-180.000000) translate(-2.500000, -86.500000) " x="2.27373675e-13" y="78" width="5" height="17" rx="2"></rect>
+                    </g>
+                    <g id="Group" transform="translate(48.000000, 47.500000) rotate(-300.000000) translate(-48.000000, -47.500000) translate(45.000000, 0.000000)">
+                        <rect id="Rectangle" x="1" y="0" width="5" height="17" rx="2"></rect>
+                        <rect id="Rectangle" transform="translate(2.500000, 86.500000) rotate(-180.000000) translate(-2.500000, -86.500000) " x="2.27373675e-13" y="78" width="5" height="17" rx="2"></rect>
+                    </g>
+                    <g id="Group" transform="translate(48.000000, 47.500000) rotate(-240.000000) translate(-48.000000, -47.500000) translate(45.000000, 0.000000)">
+                        <rect id="Rectangle" x="1" y="0" width="5" height="17" rx="2"></rect>
+                        <rect id="Rectangle" transform="translate(2.500000, 86.500000) rotate(-180.000000) translate(-2.500000, -86.500000) " x="2.27373675e-13" y="78" width="5" height="17" rx="2"></rect>
+                    </g>
+                    <g id="Group" transform="translate(48.000000, 47.500000) rotate(-210.000000) translate(-48.000000, -47.500000) translate(45.000000, 0.000000)">
+                        <rect id="Rectangle" x="1" y="0" width="5" height="17" rx="2"></rect>
+                        <rect id="Rectangle" transform="translate(2.500000, 86.500000) rotate(-180.000000) translate(-2.500000, -86.500000) " x="2.27373675e-13" y="78" width="5" height="17" rx="2"></rect>
+                    </g>
+                    <g id="Group" transform="translate(0.000000, 44.000000)">
+                        <rect id="Rectangle" transform="translate(9.000000, 3.000000) rotate(-90.000000) translate(-9.000000, -3.000000) " x="6.5" y="-5.5" width="5" height="17" rx="2"></rect>
+                        <rect id="Rectangle" transform="translate(87.000000, 3.000000) rotate(-90.000000) translate(-87.000000, -3.000000) " x="84.5" y="-5.5" width="5" height="17" rx="2"></rect>
+                    </g>
+                </g>
+            </g>
+            <path id="cloud" d="M349.788775,227.481579 L310.617104,227.481579 C305.107794,226.878563 301.015438,222.098087 301.269056,216.56168 C301.522675,211.025274 306.034956,206.63897 311.576323,206.542178 C312.845773,206.549453 314.103043,206.79031 315.285304,207.252711 C317.441259,201.048211 323.325085,196.919006 329.892978,197.001205 C336.46087,197.083405 342.239512,201.358569 344.239514,207.615083 C348.018298,205.774168 352.530762,206.363808 355.709645,209.113876 C358.888529,211.863945 360.121369,216.244597 358.843375,220.248958 C357.565381,224.253318 354.022778,227.109885 349.838512,227.51 L349.788775,227.481579 Z M311.576323,207.963244 C306.729051,207.954411 302.729454,211.754322 302.490233,216.595695 C302.251012,221.437069 305.85652,225.612761 310.681051,226.081829 L349.760354,226.081829 C353.466717,225.710886 356.570653,223.114079 357.590018,219.531396 C358.609384,215.948713 357.337415,212.106849 354.381483,209.840311 C351.425551,207.573774 347.385225,207.342297 344.189777,209.256413 C343.99747,209.370905 343.76246,209.388097 343.555538,209.302812 C343.348616,209.217527 343.193972,209.039733 343.138188,208.822988 C341.595747,202.770946 336.191371,198.50158 329.946661,198.401904 C323.70195,198.302228 318.16407,202.396936 316.429262,208.396669 C316.37048,208.596283 316.227149,208.760097 316.037108,208.844863 C315.847066,208.92963 315.629418,208.926829 315.441621,208.837199 C314.234333,208.261712 312.913757,207.963126 311.576323,207.963244 L311.576323,207.963244 Z" id="Shape" stroke="#4A6B0B" stroke-width="1.5" fill="#4A6B0B"></path>
+        </g>
+    </g>
+</svg>
